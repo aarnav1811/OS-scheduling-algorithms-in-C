@@ -8,7 +8,6 @@ This project implements various Operating System (OS) scheduling algorithms in C
 2. [Input Format](#input-format)
 3. [Output Format](#output-format)
 4. [Implemented Algorithms](#implemented-algorithms)
-5. [Example](#example)
 
 ## Introduction
 
