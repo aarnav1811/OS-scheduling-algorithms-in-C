@@ -1,4 +1,3 @@
-# OS-scheduling-algorithms-in-C
 # OS Scheduling Algorithms in C
 
 This project implements various Operating System (OS) scheduling algorithms in C. It takes a matrix as input, where each row represents a process and the columns contain the arrival time, execution time, and service time of the processes. The program outputs the scheduling order, Gantt chart, turnaround time, and waiting time for each algorithm.
