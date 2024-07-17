@@ -1,0 +1,14 @@
+Gantt Chart:
+| 2 | 2 | 2 | 2 | 2 | 2 | 2 | 0 | 0 | 1 | 1 | 1 | 1 | 1 | 3 | 3 | 3 | 3 | 4 | 4 | 4 | 4 | 4 | 
+
+Process_ID	Arrival_Time	Burst_Time	Priority	Completed_Time	Turnaround_Time	Waiting_Time
+0			0				2			1			9				9				7
+1			0				5			3			14				14				9
+2			0				7			0			7				7				0
+3			0				4			4			18				18				14
+4			0				5			5			23				23				18
+
+Total Turnaround Time: 71
+Total Waiting Time: 48
+Average Turnaround Time: 14.20
+Average Waiting Time: 9.60

@@ -1,0 +1,12 @@
+P	 BT	 WT	 TAT
+P4	 1	 0	 1
+P1	 3	 1	 4
+P2	 4	 4	 8
+P3	 5	 8	 13
+P5	 7	 13	 20
+
+Average Waiting Time = 5.200000
+Average Turnaround Time = 9.200000
+
+Gantt Chart:
+P4 | P1 | P1 | P1 | P2 | P2 | P2 | P2 | P3 | P3 | P3 | P3 | P3 | P5 | P5 | P5 | P5 | P5 | P5 | P5 | 

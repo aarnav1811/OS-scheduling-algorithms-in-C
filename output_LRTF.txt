@@ -1,0 +1,12 @@
+Student id	Burst Time	WaitingTime	TurnAroundTime
+0			7			0			7		
+1			5			7			12		
+2			4			12			16		
+4			3			16			19		
+3			1			19			20		
+
+Average Waiting Time is: = 54
+Average Turn around Time is: = 74
+
+Gantt Chart:
+P0 | P0 | P0 | P0 | P0 | P0 | P0 | P1 | P1 | P1 | P1 | P1 | P2 | P2 | P2 | P2 | P4 | P4 | P4 | P3 | 

@@ -1,0 +1,12 @@
+Gantt Chart
+-----------
+|P0||P1||P2||P3||P4|
+
+Process	Arrival_Time	Burst_Time	Completion_Time	Turnaround_Time	Wait_Time
+0		0				4			4				4				0
+1		2				7			11				9				2
+2		5				10			21				16				6
+3		4				5			26				22				17
+4		7				3			29				22				19
+Average waiting time = 8.800000
+Average turnaround time = 14.600000

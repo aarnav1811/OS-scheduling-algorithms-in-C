@@ -1,0 +1,2 @@
+Number of processes: 5
+Burst Times: 3 4 5 1 7
